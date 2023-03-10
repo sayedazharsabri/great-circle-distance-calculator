@@ -1,6 +1,6 @@
 {
   "name": "greatcircledistcalculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is to calculate great circledistance ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,5 +11,21 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.9.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedazharsabri/great-circle-distance-calculator.git"
+  },
+  "keywords": [
+    "great",
+    "circle",
+    "distance",
+    "calculator",
+    "greatcircledistance",
+    "greatcircledistancecalcualtor"
+  ],
+  "bugs": {
+    "url": "https://github.com/sayedazharsabri/great-circle-distance-calculator/issues"
+  },
+  "homepage": "https://github.com/sayedazharsabri/great-circle-distance-calculator#readme"
 }
