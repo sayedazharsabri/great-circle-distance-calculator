@@ -1,0 +1,15 @@
+{
+  "name": "greatcircledistcalculator",
+  "version": "1.0.0",
+  "description": "This is to calculate great circledistance ",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Sayed Azhar Sabri",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
